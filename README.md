@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--	Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
+-	Blog - https://b1g-b33f.github.io/
 
 -	YouTube - http://www.youtube.com/@b1gb33f
 
