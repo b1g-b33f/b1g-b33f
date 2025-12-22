@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Pentesting and AppSec Blog](https://b1g-b33f.github.io/)
+[Pentesting and AppSec Blog](https://b1g-b33f.github.io/)
 
-![Check out my YouTube](http://www.youtube.com/@b1gb33f)
+[Check out my YouTube](http://www.youtube.com/@b1gb33f)
 
-![Hack The Box hacker rank](https://app.hackthebox.com/profile/1768657)
+[Hack The Box hacker rank](https://app.hackthebox.com/profile/1768657)
 
-![bugforge.io leaderboard](https://bugforge.io/leaderboard)
+[Number 1 on bugforge.io leaderboard](https://bugforge.io/leaderboard)
 
 
 
