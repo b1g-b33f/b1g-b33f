@@ -9,6 +9,7 @@
 ![bugforge.io leaderboard](https://bugforge.io/leaderboard)
 
 
+
 ![PNPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102766930) ![PWPP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/169874200) ![PORP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/95898014) ![PWPW](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125619604) ![PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89159458)
 
 
