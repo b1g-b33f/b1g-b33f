@@ -6,7 +6,7 @@
 
 [Hack The Box hacker rank](https://app.hackthebox.com/profile/1768657)
 
-[Number 1 on bugforge.io leaderboard](https://bugforge.io/leaderboard)
+[Number 1 on bugforge.io leaderboard](https://app.bugforge.io/leaderboard)
 
 
 
