@@ -4,7 +4,7 @@
 
 [Check out my YouTube](http://www.youtube.com/@b1gb33f)
 
-[Hack The Box hacker rank](https://app.hackthebox.com/profile/1768657)
+[Hack The Box hacker rank](https://app.hackthebox.com/public/users/1768657)
 
 [Number 1 on bugforge.io leaderboard](https://app.bugforge.io/leaderboard)
 
